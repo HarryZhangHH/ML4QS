@@ -5,6 +5,6 @@ Recently, the sensory data from subjects were widely used in predicting human be
 
 [activity-classification-gbc-fourier-transform.ipynb](https://github.com/HarryZhangHH/ML4QS/blob/main/activity-classification-gbc-fourier-transform.ipynb) notebook is a fourier transform tutorial.
 
-[ml4qs-benchmark.ipynb](https://github.com/HarryZhangHH/ML4QS/blob/main/ml4qs-benchmark.ipynb)
+[ml4qs-benchmark.ipynb](https://github.com/HarryZhangHH/ML4QS/blob/main/ml4qs-benchmark.ipynb) notebook contains two powerful existed models, separately GradientBoostingClassifier and lightgbm we used to work as a benchmark.
 
 [clustrer&ensemble.ipynb](https://github.com/HarryZhangHH/ML4QS/blob/main/cluster%26ensemble.ipynb) and  are a ensemble 
